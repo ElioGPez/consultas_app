@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">consultasApp</string>
+    <string name="facebook_app_id">1142777599690884</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">159988733dd9758a2ffd8acc9659acd8</string>
+</resource>

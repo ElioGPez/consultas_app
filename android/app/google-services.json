@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5156819539",
+    "project_id": "consulta-auth",
+    "storage_bucket": "consulta-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5156819539:android:ef0ff038d3bff970abaca6",
+        "android_client_info": {
+          "package_name": "com.example.consulta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5156819539-jrjmcksimqesrf7ntt1ln9gl4in3195m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.consulta_app",
+            "certificate_hash": "41fa758bc9faf4af0c7b67ce892ef95810712e2e"
+          }
+        },
+        {
+          "client_id": "5156819539-6ot497vtrqcce1hsjil52u7gqssj75q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeF3-zXcjdL4UpQPUCylexUfopI33t24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5156819539-6ot497vtrqcce1hsjil52u7gqssj75q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
